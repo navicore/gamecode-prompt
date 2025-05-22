@@ -1,3 +1,6 @@
+[![Dependabot Updates](https://github.com/navicore/gamecode-prompt/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/navicore/gamecode-prompt/actions/workflows/dependabot/dependabot-updates)
+[![Rust CI](https://github.com/navicore/gamecode-prompt/actions/workflows/rust-ci.yml/badge.svg)](https://github.com/navicore/gamecode-prompt/actions/workflows/rust-ci.yml)
+
 # gamecode-prompt
 
 A Rust library for system prompt management in gamecode applications.
